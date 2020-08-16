@@ -12,5 +12,5 @@ After making a tester video with different gain settings, I've come to the concl
 
 Twitch studio has a good compressor and audio settings, after 30m of playing around this felt right:
 
-<img src="./img/twitch-studio">
+<img src="./img/twitch-studio.png">
 
