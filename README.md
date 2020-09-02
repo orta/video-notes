@@ -23,7 +23,7 @@ I took a week off in August 2020 to set up my office for high quality video reco
 
 #### Software
 
-- Recording: Screenflow 9 (see [Higher Fidelity](./day5.md)
+- Recording: Screenflow 9 (see [Higher Fidelity](./day5.md) for more)
 - Editing: Screenflow 9
 - Streaming: Twitch Studio
 
